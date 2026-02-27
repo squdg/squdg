@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @squdg
-- 👀 I’m interested in electrical engineering, specfically power generation, and I wanna make some videogames RAHH...
+- 👀 I’m interested in electrical engineering, specfically in semiconductor materials, and I wanna make some videogames RAHH...
 - 🌱 I’m currently learning C and PCB design!
-- 💞️ I’m looking to collaborate on nothing. for now. . . . .
-- 📫 Reach me at @robot.gentleman on discord!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I also make comics catch me on webtoon one day muahaha
+- ⚡ Fun fact: I also make comics 
 
 <!---
 squdg/squdg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
